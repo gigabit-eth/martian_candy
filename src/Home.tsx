@@ -295,7 +295,7 @@ const Home = (props: HomeProps) => {
   return (
     <Container style={{ marginTop: 0 }}>
       <Navbar />
-      <Container maxWidth="xs" style={{ position: 'relative', marginTop: 100 }}>
+      <Container maxWidth="xs" style={{ position: 'relative', marginTop: 200 }}>
         <Paper
           style={{
             padding: 24,
